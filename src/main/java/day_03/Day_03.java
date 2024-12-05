@@ -9,6 +9,8 @@ import java.util.regex.Pattern;
 
 import static java.lang.String.format;
 
+// Advent of Code 2024 Day 3
+// Link: <a href="...">https://adventofcode.com/2024/day/3</a>
 public class Day_03 {
 
     public static void main(String[] args) {

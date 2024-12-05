@@ -6,6 +6,8 @@ import java.nio.file.Paths;
 import java.util.ArrayList;
 import java.util.List;
 
+// Advent of Code 2024 Day 2
+// Link: <a href="...">https://adventofcode.com/2024/day/2</a>
 import static java.lang.String.format;
 
 public class Day_02 {

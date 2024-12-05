@@ -9,6 +9,8 @@ import java.util.List;
 
 import static java.lang.String.format;
 
+// Advent of Code 2024 Day 1
+// Link: <a href="...">https://adventofcode.com/2024/day/1</a>
 public class Day_01 {
 
     static List<Integer> listA = new ArrayList<>();
