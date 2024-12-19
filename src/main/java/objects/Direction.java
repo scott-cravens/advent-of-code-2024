@@ -51,7 +51,7 @@ public enum Direction {
         }
     };
 
-    abstract Point move(Point p);
+    public abstract Point move(Point p);
     public abstract Direction turnRight();
     public abstract Direction turnLeft();
 }
